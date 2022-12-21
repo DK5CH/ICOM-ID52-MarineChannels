@@ -1,7 +1,7 @@
 # ICOM-ID52 Marine Channels 
 
 This file is an amateur radio related configuration file for the ICOM ID-52 hand held transceiver, it 
-contails the internation marine channels to import into ICOMs CS-52 Configuration software for the radio.
+contains the international marine channels to import into ICOMs CS-52 Configuration software for the radio.
 The radio can only receive on these frequencies, transmitting on these frequencies in not permitted.
 Please check your local regulatories with regards to monitoring these channels in our country.
 
