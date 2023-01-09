@@ -23,6 +23,11 @@ Please check your local regularities with regards to monitoring these channels i
 - if you are happy with the channels write the configuration back to the radio
 - restart your radio
 
+**Imortant note for users in North America**
+As CS-705 seems to handle character set different between regions I have now created two files. If one does not work, try the other one. Comma separated is working for North America.
+
+*many thanks to SM0TGU for pointing me in the right direction.*
+
 * * *
 
 ### Using the channels on your radio
